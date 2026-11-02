@@ -1,4 +1,4 @@
-   node_modules
-   dist
-   .env
-   supabase/.temp
+node_modules
+dist
+.env
+supabase/.temp
